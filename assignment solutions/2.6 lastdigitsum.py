@@ -16,7 +16,7 @@ elif lesser==0:
     quit()
 def fibo(n):
     a,b = 0, 1
-    for i in range(2,lesser+1):
+    for _ in range(2,lesser+1):
         c = a+b
         c = c%10
         b, a = c, b
@@ -25,15 +25,3 @@ def fibo(n):
     else:
         print(9)
 fibo(lesser)
-# def fibo(n):
-#     # tot = 1
-#     a, b = 0, 1
-#     for _ in range(n+1):
-#         c = a + b
-#         c = c%10
-#         # tot += c
-#         b, a = c, b
-#     # print(tot%10)
-#     print(c-1)
-
-# fibo(n)
