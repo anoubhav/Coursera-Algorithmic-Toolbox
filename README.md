@@ -6,8 +6,13 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 ### Week 1- Programming Challenges
 
+<<<<<<< HEAD
 - [Sum of Two Digits](/Assignment%20solutions/1.1%20sum%20of%20digits.py)
 - [Maximum Pairwise Product](/Assignment%20solutions/1.2%20max%20pairwise%20product.py)
+=======
+- [Sum of Two Digits](/assignment solutions/1.1 sum of digits.py)
+- [Maximum Pairwise Product](/Assignment solutions/1.2 max pairwise product.py)
+>>>>>>> 1591d30613a43a3cae635dbe4865e911fcb66063
 
 ### Week 2- Algorithmic Warm-up
 
