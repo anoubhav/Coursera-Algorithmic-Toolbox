@@ -44,7 +44,7 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 - [Primitive Calculator](/assignment%20solutions/5.2%20primitive%20calculator.py)
 - [Edit Distance](/assignment%20solutions/5.3%20edit%20distance.py)
 - [Longest Common Subsequence of Two Sequence](/assignment%20solutions/5.4%20LCS%202%20sequences.py)
-- [Longest Common Subsequence of Two Sequence](/assignment%20solutions/5.5%20LCS%203%20sequences.py)
+- [Longest Common Subsequence of Three Sequence](/assignment%20solutions/5.5%20LCS%203%20sequences.py)
 
 ### Week 6- Dynamic Programming 2 ([PDF](/Assignments/week6_dynamic_programming2.pdf))
 
