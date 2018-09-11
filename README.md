@@ -4,7 +4,7 @@ This repository contains all solutions for the course [Algorithmic Toolbox](http
 
 **Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
 
-### Week 1- Programming Challenges([PDF](/Assignments/week1_programming_challenges.pdf))
+### Week 1- Programming Challenges #### ([PDF](/Assignments/week1_programming_challenges.pdf))
 
 - [Sum of Two Digits](/assignment%20solutions/1.1%20sum%20of%20digits.py)
 - [Maximum Pairwise Product](/assignment%20solutions/1.2%20max%20pairwise%20product.py)
