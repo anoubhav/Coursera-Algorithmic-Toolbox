@@ -1,5 +1,7 @@
 # python3
 
+""" Task: You are given a set of points on a line and a set of segments on a line. The goal is to compute, for each point, the number of segments that contain this point """
+
 # Inputs
 master_list = list()
 s, p = [int(i) for i in input().split()]

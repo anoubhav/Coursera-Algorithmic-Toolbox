@@ -1,5 +1,7 @@
 # python3
 
+""" Task: Count the number of inversions of a given sequence """
+
 def merge(left, right):
     i, j, inversion_counter = 0, 0, 0
     final = list()
