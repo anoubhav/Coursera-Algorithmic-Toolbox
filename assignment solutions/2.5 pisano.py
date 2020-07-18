@@ -24,8 +24,9 @@ if lesser<=1:
     quit()
 
 def fibo(n, m):
+    lesser = n%pisano[m]
     a, b = 0, 1
-    for _ in range(n-1):
+    for _ in range(2,lesser+1):
         c = a + b
         b, a = c, b
     print(c%m)
