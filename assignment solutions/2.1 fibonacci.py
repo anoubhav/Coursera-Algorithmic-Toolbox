@@ -10,6 +10,6 @@ def fibo(n):
     for _ in range(n-1):
         c = a + b
         b, a = c, b
-    print(c)
+    print(b)
 
 fibo(n)
