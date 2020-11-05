@@ -2,7 +2,7 @@
 
 This repository contains all solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox) offered on Coursera. The assignment solutions are in Python3.
 
-**Disclaimer:** The below solutions are **for reference only**. Please design and implement your own algorithms to pass the course.
+**Disclaimer:** The below solutions are **for reference only** and **to help the beginners**. Please design and implement your own algorithms to pass the course.
 
 ### Week 1- Programming Challenges ([PDF](/Assignments/week1_programming_challenges.pdf))
 
