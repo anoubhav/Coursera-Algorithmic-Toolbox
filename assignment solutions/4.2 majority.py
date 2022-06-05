@@ -6,8 +6,8 @@ seq = [int(i) for i in input().split()]
 def divide_func(seq, l, r):
     if l+1==r:
         return seq[l]
-    elif l+2==r:
-        return seq[l]
+    #elif l+2==r:
+    #    return seq[l]
     m = (l+r)//2
     left = divide_func(seq, l, m)
     right = divide_func(seq, m, r)
